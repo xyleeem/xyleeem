@@ -34,7 +34,7 @@
 <div align="left">
   
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />&nbsp;
-<a href=""https://www.facebook.com/xyleeem"">
+<a href="https://www.facebook.com/xyleeem">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />&nbsp;
   </a>
 <a href="https://www.instagram.com/xyleeem_/">
